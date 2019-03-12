@@ -1,0 +1,3 @@
+#!/bin/bash 
+
+    java -classpath /home/manas/AIPlanning/pddl4j/ENHSP-Public-master/src/:/home/manas/AIPlanning/pddl4j/ENHSP-Public-master/libs/PPMaJal2.jar:/home/manas/AIPlanning/pddl4j/ENHSP-Public-master/libs/* ENHSP "$@"
